@@ -1,1 +1,1 @@
-![Image of a laptop] (https://get.pxhere.com/photo/business-code-coding-computer-connection-css-data-desk-display-electronics-facts-html-illuminated-indoors-internet-keyboard-laptop-modern-monitor-office-portable-programming-screen-software-table-technology-wireless-work-working-1554323.jpg)
+![Image of a laptop](https://thetempest.co/wp-content/uploads/2016/12/Legacy-code.png)
