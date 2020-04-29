@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a laptop] (https://get.pxhere.com/photo/business-code-coding-computer-connection-css-data-desk-display-electronics-facts-html-illuminated-indoors-internet-keyboard-laptop-modern-monitor-office-portable-programming-screen-software-table-technology-wireless-work-working-1554323.jpg)
