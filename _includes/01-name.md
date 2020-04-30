@@ -1,6 +1,3 @@
-## Portfolio
-<p align="center">
-  <b>Damini Jain</b>
+## Damini Jain
   
-
-#### Contact: ![Email](jaindamini1111@gmail.com) | ![Linkedin](https://www.linkedin.com/in/damini-jain-108113)
+#### Contact: ![Email](jaindamini1111@gmail.com) | ![LinkedIn](https://www.linkedin.com/in/damini-jain-108113)
