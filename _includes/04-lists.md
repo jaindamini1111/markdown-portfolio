@@ -1,4 +1,4 @@
-### favorite things
+### Favorite Things
 
 - Novels
 - Music
