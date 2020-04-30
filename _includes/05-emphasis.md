@@ -35,4 +35,4 @@ and Mathematics, College of Engineering Studies, University of Petroleum and Ene
 
 **2011-2013** - School Level Prefect.
 
-**2010-2011** - Assisted in raising funds amongst the fellow classmates and neighbourhood locality for the care of the elderly.
+**2010-2011** - Assisted in raising funds amongst the classmates and neighbourhood locality for the care of the elderly.
