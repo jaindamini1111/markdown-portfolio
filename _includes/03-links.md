@@ -5,6 +5,12 @@
 
 - **Spotify's Popular or not Analysis** - Used the top Spotify songs dataset (2010-2019) from Kaggle for predicting if the song will be able to make it to hit list (top 30s) or not.
 
+- **Addressing of Land Using Investigation by Machine Learning** - Implemented Machine Learning Algorithms to the land-use
+change model for the determination of the well-fitting algorithm which reflects and monitors the real world.
+
+- **Visualization and Analysis of Infant Mortality Rate in India** - Combined statistical software to visualize, analyze and map the Infant Mortality Rate data and study its decrease in India by implementing a series of spatial regression models to determine
+the key risk factors in infant mortality.
+
 - **Click through rate prediction** - Predicted whether a given ad on a given page, will be clicked by a given user with predictive features such as user information etc.
 
 - **Bank Marketing** - Predicted if the client will subscribe (yes/no) a term deposit.
