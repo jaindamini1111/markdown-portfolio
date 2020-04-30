@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### favorite things
+
+- Novels
+- Music
+- Programming
+- Series
