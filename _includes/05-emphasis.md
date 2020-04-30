@@ -1,4 +1,4 @@
-#### Skills
+### Skills
 
 :white_check_mark:  **General** - Data Analysis, Machine Learning, Data Vizualization
 
@@ -9,7 +9,7 @@
 :white_check_mark:  **Tools** - MS Excel, MS PowerPoint, Palantir, Spotfire, PowerBI
 
 
-#### Accomplishments 
+### Accomplishments 
 
 - Earned Badges issued by IBM: Python for Data Science, Statistics 101, Applied Data Science with Python – Level 2, Big Data
 Foundations – Level 1.
@@ -24,7 +24,7 @@ Foundations – Level 1.
 
 
 
-#### Volunteering Experience
+### Volunteering Experience
 
 **2018** - Student Partner of COGNIZANCE, the annual Technical Festival of IIT Roorkee.
 
