@@ -21,3 +21,18 @@ Foundations – Level 1.
 - Surpassed Introduction to Data Science authorized by The University of Michigan offered through Coursera; SQL for Data Science by UCDAVIS.
 
 - Successfully attained the GRANDMASTER LEVEL of MENTAL ARITHMETIC in ALOHA Brain Development Program Using ABACUS.
+
+
+
+#### Volunteering Experience
+
+**2018** - Student Partner of COGNIZANCE, the annual Technical Festival of IIT Roorkee.
+
+**2016-2017** - Volunteered Science Engineering Connect which was jointly organized by the Departments of Physics, Chemistry
+and Mathematics, College of Engineering Studies, University of Petroleum and Energy Studies.
+
+**2015-2017** - Member of the Public Relations Committee at UPES-SEG Student Chapter.
+
+**2011-2013** - School Level Prefect.
+
+**2010-2011** - Assisted in raising funds amongst the fellow classmates and neighbourhood locality for the care of the elderly.
