@@ -31,4 +31,4 @@ Studied the unprecedented urbanization of Bangalore for seven years with the urb
 
 **2013-2015** - Pursued my Senior Secondary from Sir Padampat Singhania School, Kota, Rajasthan, India.
 
-**2011-2013** - Pursed my Secondary from Silver Oak School Alwar, Rajasthan, India.
+**2011-2013** - Pursued my Secondary from Silver Oak School Alwar, Rajasthan, India.
