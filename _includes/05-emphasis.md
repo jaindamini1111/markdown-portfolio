@@ -11,13 +11,13 @@
 
 #### Accomplishments 
 
-:large_blue_diamond: Earned Badges issued by IBM: Python for Data Science, Statistics 101, Applied Data Science with Python – Level 2, Big Data
+- Earned Badges issued by IBM: Python for Data Science, Statistics 101, Applied Data Science with Python – Level 2, Big Data
 Foundations – Level 1.
 
-:arrow_forward: Earned Gold Level in SQL; Bronze Level in Python on HackerRank.
+- Earned Gold Level in SQL; Bronze Level in Python on HackerRank.
 
-:arrow_forward: Ranked 6 kyu in Python on Codewars.
+- Ranked 6 kyu in Python on Codewars.
 
-:arrow_forward: Surpassed Introduction to Data Science authorized by The University of Michigan offered through Coursera; SQL for Data Science by UCDAVIS.
+- Surpassed Introduction to Data Science authorized by The University of Michigan offered through Coursera; SQL for Data Science by UCDAVIS.
 
-:arrow_forward: Successfully attained the GRANDMASTER LEVEL of MENTAL ARITHMETIC in ALOHA Brain Development Program Using ABACUS.
+- Successfully attained the GRANDMASTER LEVEL of MENTAL ARITHMETIC in ALOHA Brain Development Program Using ABACUS.
