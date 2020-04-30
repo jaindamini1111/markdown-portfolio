@@ -11,7 +11,7 @@
 
 #### Accomplishments 
 
-:arrow_forward: Earned Badges issued by IBM: Python for Data Science, Statistics 101, Applied Data Science with Python – Level 2, Big Data
+:small_blue_diamond: Earned Badges issued by IBM: Python for Data Science, Statistics 101, Applied Data Science with Python – Level 2, Big Data
 Foundations – Level 1.
 
 :arrow_forward: Earned Gold Level in SQL; Bronze Level in Python on HackerRank.
