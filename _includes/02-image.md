@@ -4,17 +4,28 @@
 
 ### Work Experience
 
+#### LexHeal - Data Analyst
+##### Bengaluru, Karnataka • 05/2020 - Present
+
+- Predicting seven-segment display using multiclass classification algorithm; Naïve Bayes, with an accuracy of 95%.
+
+- Using OCR, NLP and RegEx for document imaging.
+
+- Building corpus of 3000+ medical tests by web scraping.
+
+- Building dataset in Excel for Unsupervised Machine Learning; Clustering.
+
 #### United Airlines - Intern
 ##### Gurugram, Haryana • 08/2019 - 12/2019
 
-- Performing quality checks on market performance report being presented to stakeholders using the dashboard.
+- Performed quality checks on market performance report being presented to stakeholders using the dashboard.
 
-- Analyzing and transforming data leveraging tools such as SQLServer, Excel and develop and execute SQL scripts to
+- Analyzed and transformed data leveraging tools such as SQLServer, Excel and developed SQL scripts to
 update/add/delete the data for markets.
 
-- Quality check and user testing for data warehouse migration using python scripts and reporting to the concerned team.
+- Quality check and user testing for data warehouse migration by python scripts saved an estimated 3 hours.
 
-- Translating technical information into an intuitive format from scratch while complying with regulatory requirements in the
+- Translated technical information into an intuitive format from scratch while complying with regulatory requirements in the
 documentation.
 
 #### International Institute Of Information Technology - Intern
